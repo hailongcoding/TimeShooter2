@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <h1 style="color:red">If you are seeing this there was an error that you can't use this page right now.</h1>
-<html><head><title>Time Shooter Unblocked</title><style>body,html{margin:0;padding:0;height:100%;width:100%;overflow:hidden;}iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none;}</style><style id="sweezy-cursors--styles">
+<html><head><title>Time Shooter 2 Unblocked</title><style>body,html{margin:0;padding:0;height:100%;width:100%;overflow:hidden;}iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none;}</style><style id="sweezy-cursors--styles">
       body a,
       body button,
       body [type='button'],
